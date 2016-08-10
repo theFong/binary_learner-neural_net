@@ -16,9 +16,9 @@ X = np.array([[0,0,1],
 
 # outputs
 Y = np.array([[0],
-			  [0],
 			  [1],
-			  [1]])
+			  [1],
+			  [0]])
 
 np.random.seed(1)
 
@@ -47,5 +47,7 @@ for j in xrange(60000):
 	syn1 += l1.T.dot(l2_delta)
 	syn0 += l0.T.dot(l1_delta)
 
-print "Output after training:"
+print "**Output after training**"
 print l2
+print "Answer: "
+print Y

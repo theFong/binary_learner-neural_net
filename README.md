@@ -16,14 +16,23 @@ Example:
 - What does:
 [1,0,0] => ?
 ```
-The neural network will learn the pattern that a 1 on the
-left side of the matrix means 1 is the answer.
+The neural network will learn the pattern that a 1 in the 
+first column of the matrix means 1 is the answer.
 
 The neural net trains its self 60,000 times printing its 
 error every 10,000 and then prints the output layer
 
 ## Run
-	python patern_learner.py
+### Neural Network Proof of Concept
+Demonstrates gradient descent by adjusting its network and displaying
+its diminishing error
+```
+python neural_networkPOC.py
+```
+### Pattern Learner -> Recognizer
+```
+python main.py
+```
 
 ## Neural Network
 
