@@ -1,6 +1,6 @@
 import numpy as np
 
-class NeuralNetwork_v0():
+class NeuralNetwork_v0(object):
 	def __init__(self):
 		np.random.seed(1)
 
