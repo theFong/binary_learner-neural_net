@@ -10,6 +10,7 @@ A simple neural network to learn the 4 digit binary pattern [0,1,1,0].
 
 ## Neural Network
 
--Gradient descent
--sigma(z) = 1/(1+exp(-z))
--sigma'(z) ~ x(1-x)
+- Gradient descent
+- Functions
+	- sigma(z) = 1/(1+exp(-z))
+	- sigma'(z) ~ x(1-x)
