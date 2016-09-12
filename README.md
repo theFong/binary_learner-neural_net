@@ -35,7 +35,7 @@ python main.py
 or
 python main.py [X,X,X]
 ```
-'X' must be a binary digit ie. 1 or 0
+'X' must be a bit ie. 1 or 0
 ## Neural Network
 
 - Gradient descent
