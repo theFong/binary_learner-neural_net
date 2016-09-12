@@ -1,4 +1,4 @@
-#Simple Pattern Learner
+#Binary Pattern Learner
 Alec Fong, Aug 2016
 
 ##Summary
