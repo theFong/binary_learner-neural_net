@@ -1,7 +1,7 @@
-#Binary Pattern Learner
+# Binary Pattern Learner
 Alec Fong, Aug 2016
 
-##Summary
+## Summary
 
 A simple neural network to learn binary patterns
 
